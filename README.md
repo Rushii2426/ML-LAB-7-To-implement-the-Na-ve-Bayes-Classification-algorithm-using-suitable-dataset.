@@ -1,0 +1,1 @@
+# ML-LAB-7-To-implement-the-Na-ve-Bayes-Classification-algorithm-using-suitable-dataset.
